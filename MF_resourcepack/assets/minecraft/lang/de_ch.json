@@ -139,7 +139,6 @@
   "entity.minecraft.villager.butcher": "Koch",
   "entity.minecraft.villager.librarian": "Redner",
   "subtitles.entity.villager.work_leatherworker": "Förschter schaffet",
-##"subtitles.entity.villager.work_cartographer": "Kartograf schaffet", // LANG de_ch - MATCHA: Archeolog - MINECRAFT: Chartograf - WORK: Kartograf schaffet
   "subtitles.entity.villager.work_armorer": "Ingenieur schaffet",
   "subtitles.entity.villager.work_cleric": "Chemiker schaffet",
   "subtitles.entity.villager.work_toolsmith": "Juwellier schaffet",

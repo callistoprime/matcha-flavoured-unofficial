@@ -144,7 +144,6 @@
   "subtitles.entity.villager.work_cleric": "Químico trabaja",
   "subtitles.entity.villager.work_toolsmith": "Joyero trabaja",
   "subtitles.entity.villager.work_butcher": "Cocinero trabaja",
-##"subtitles.entity.villager.work_librarian": "Bibliotecario trabaja", // LANG es_cl - MATCHA: Portavoz - MINECRAFT: Librero - WORK: Bibliotecario trabaja
   "block.kleispack.banner.classic_pride": "Orgullo clásico",
   "block.kleispack.banner.common_pride": "Orgullo común",
   "block.kleispack.banner.new_pride": "Orgullo nuevo",

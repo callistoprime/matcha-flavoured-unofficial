@@ -77,13 +77,6 @@
   "entity.minecraft.villager.toolsmith": "jan kiwen",
   "entity.minecraft.villager.butcher": "jan moku",
   "entity.minecraft.villager.librarian": "jan toki",
-##"subtitles.entity.villager.work_leatherworker": "jan tomo pi selo soweli li pali", // LANG tok - MATCHA: jan kasi - MINECRAFT: jan pi selo soweli - WORK: jan tomo pi selo soweli li pali
-##"subtitles.entity.villager.work_cartographer": "jan tomo pi sitelen ma li pali", // LANG tok - MATCHA: jan pi ijo majuna - MINECRAFT: jan sitelen - WORK: jan tomo pi sitelen ma li pali
-##"subtitles.entity.villager.work_armorer": "jan tomo pi len utala li pali", // LANG tok - MATCHA: jan ilo - MINECRAFT: jan pi len utala - WORK: jan tomo pi len utala li pali
-##"subtitles.entity.villager.work_cleric": "jan tomo sewi li pali", // LANG tok - MATCHA: jan pi telo wawa - MINECRAFT: jan sewi - WORK: jan tomo sewi li pali
-##"subtitles.entity.villager.work_toolsmith": "jan tomo ilo li pali", // LANG tok - MATCHA: jan kiwen - MINECRAFT: jan ilo - WORK: jan tomo ilo li pali
-##"subtitles.entity.villager.work_butcher": "jan tomo moku li pali", // LANG tok - MATCHA: jan moku - MINECRAFT: jan moku - WORK: jan tomo moku li pali
-##"subtitles.entity.villager.work_librarian": "jan tomo sona li pali", // LANG tok - MATCHA: jan toki - MINECRAFT: jan pi lipu sona - WORK: jan tomo sona li pali
   "item.kleispack.copper_shears": "ilo kipisi lili ante",
   "adv.kleispack.fishing.rarity.1": "§7⭐§8☆☆☆",
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",

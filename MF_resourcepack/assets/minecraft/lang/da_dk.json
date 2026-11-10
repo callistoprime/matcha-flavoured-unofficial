@@ -141,8 +141,6 @@
   "subtitles.entity.villager.work_leatherworker": "skovfoged arbejder",
   "subtitles.entity.villager.work_cartographer": "Arkæolog arbejder",
   "subtitles.entity.villager.work_armorer": "Ingeniør arbejder",
-##"subtitles.entity.villager.work_cleric": "Præsten arbejder", // LANG da_dk - MATCHA: Kemist - MINECRAFT: Gejstlig - WORK: Præsten arbejder
-##"subtitles.entity.villager.work_toolsmith": "Værktøjsmed arbejder", // LANG da_dk - MATCHA: Juveler - MINECRAFT: Værktøjssmed - WORK: Værktøjsmed arbejder
   "subtitles.entity.villager.work_butcher": "Koken arbejder",
   "subtitles.entity.villager.work_librarian": "Talerør arbejder",
   "block.kleispack.banner.classic_pride": "Klassisk Pride",

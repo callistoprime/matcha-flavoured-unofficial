@@ -138,7 +138,6 @@
   "entity.minecraft.villager.toolsmith": "宝石商",
   "entity.minecraft.villager.butcher": "料理人",
   "entity.minecraft.villager.librarian": "伝道者",
-##"subtitles.entity.villager.work_leatherworker": "革職人が作業をする", // LANG ja_jp - MATCHA: 木樵 - MINECRAFT: 革細工師 - WORK: 革職人が作業をする
   "subtitles.entity.villager.work_cartographer": "考古学者が作業をする",
   "subtitles.entity.villager.work_armorer": "技師が作業をする",
   "subtitles.entity.villager.work_cleric": "化学者が作業をする",
