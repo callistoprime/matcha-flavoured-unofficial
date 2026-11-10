@@ -138,6 +138,13 @@
   "entity.minecraft.villager.toolsmith": "Smuggler",
   "entity.minecraft.villager.butcher": "Grub-spoiler",
   "entity.minecraft.villager.librarian": "Parley-master",
+  "subtitles.entity.villager.work_leatherworker": "Forest'r works",
+  "subtitles.entity.villager.work_cartographer": "Antiquarian works",
+##"subtitles.entity.villager.work_armorer": "Gearsmith works", // LANG en_pt - MATCHA: Engineer - MINECRAFT: Clothes maker - WORK: Gearsmith works
+  "subtitles.entity.villager.work_cleric": "Apothecary works",
+##"subtitles.entity.villager.work_toolsmith": "Smith o' handy objects works", // LANG en_pt - MATCHA: Smuggler - MINECRAFT: Smith o' chisellin' parts - WORK: Smith o' handy objects works
+  "subtitles.entity.villager.work_butcher": "Grub-spoiler be workin'",
+##"subtitles.entity.villager.work_librarian": "Booklubber works", // LANG en_pt - MATCHA: Parley-master - MINECRAFT: Knowledge keep'r - WORK: Booklubber works
   "block.kleispack.banner.classic_pride": "Tried and true pride",
   "block.kleispack.banner.common_pride": "Run-of-the-deck pride",
   "block.kleispack.banner.new_pride": "Fresh pride",

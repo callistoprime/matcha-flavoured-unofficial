@@ -138,6 +138,13 @@
   "entity.minecraft.villager.toolsmith": "shiny rok injoyr",
   "entity.minecraft.villager.butcher": "fod go brrr",
   "entity.minecraft.villager.librarian": "talky human",
+##"subtitles.entity.villager.work_leatherworker": "Leatherworker workss", // LANG lol_us - MATCHA: tre touchr - MINECRAFT: Lethurwurkur - WORK: Leatherworker workss
+##"subtitles.entity.villager.work_cartographer": "Cartographer workz", // LANG lol_us - MATCHA: dirt loot goblin - MINECRAFT: Mapmakr - WORK: Cartographer workz
+##"subtitles.entity.villager.work_armorer": "Armorer workz", // LANG lol_us - MATCHA: redston nerd - MINECRAFT: Armurur - WORK: Armorer workz
+##"subtitles.entity.villager.work_cleric": "Cleric workz", // LANG lol_us - MATCHA: potionz nerd - MINECRAFT: Cleyric - WORK: Cleric workz
+  "subtitles.entity.villager.work_toolsmith": "shiny rok injoyr workss",
+##"subtitles.entity.villager.work_butcher": "Butcher workz", // LANG lol_us - MATCHA: fod go brrr - MINECRAFT: Butchur - WORK: Butcher workz
+##"subtitles.entity.villager.work_librarian": "Librarian workss", // LANG lol_us - MATCHA: talky human - MINECRAFT: Nerdz - WORK: Librarian workss
   "block.kleispack.banner.classic_pride": "OLD RAINBOW",
   "block.kleispack.banner.common_pride": "RAINBOW",
   "block.kleispack.banner.new_pride": "NEW RAINBOW",

@@ -138,6 +138,13 @@
   "entity.minecraft.villager.toolsmith": "Mag-aalahas",
   "entity.minecraft.villager.butcher": "Magluluto",
   "entity.minecraft.villager.librarian": "Tagapagsalita",
+  "subtitles.entity.villager.work_leatherworker": "Nagtratrabaho ang manggugubat",
+  "subtitles.entity.villager.work_cartographer": "Nagtratrabaho ang mag-aagnos",
+  "subtitles.entity.villager.work_armorer": "Nagtratrabaho ang agsikap",
+  "subtitles.entity.villager.work_cleric": "Nagtratrabaho ang kapnayanon",
+##"subtitles.entity.villager.work_toolsmith": "Nagtratrabaho ang tagagawa ng kagamitan", // LANG tl_ph - MATCHA: Mag-aalahas - MINECRAFT: Panday para sa Kasangkapan - WORK: Nagtratrabaho ang tagagawa ng kagamitan
+##"subtitles.entity.villager.work_butcher": "Nagtratrabaho ang magkakatay", // LANG tl_ph - MATCHA: Magluluto - MINECRAFT: Mangangatay - WORK: Nagtratrabaho ang magkakatay
+  "subtitles.entity.villager.work_librarian": "Nagtratrabaho ang tagapagsalita",
   "block.kleispack.banner.classic_pride": "Dangal-klasiko",
   "block.kleispack.banner.common_pride": "Dangal-kaugalian",
   "block.kleispack.banner.new_pride": "Dangal-makabago",

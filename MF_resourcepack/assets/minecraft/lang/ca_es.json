@@ -66,6 +66,12 @@
   "entity.minecraft.villager.toolsmith": "Joier",
   "entity.minecraft.villager.butcher": "Cuiner",
   "entity.minecraft.villager.librarian": "Portaveu",
+  "subtitles.entity.villager.work_cartographer": "Un arqueòleg treballa",
+  "subtitles.entity.villager.work_armorer": "Un enginyer treballa",
+  "subtitles.entity.villager.work_cleric": "Un químic fa missa",
+  "subtitles.entity.villager.work_toolsmith": "Un joier treballa",
+  "subtitles.entity.villager.work_butcher": "Un cuiner treballa",
+  "subtitles.entity.villager.work_librarian": "Un portaveu treballa",
   "gui.experience.level": "",
   "container.repair.cost": ""
 }

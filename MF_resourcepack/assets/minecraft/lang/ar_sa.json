@@ -138,6 +138,13 @@
   "entity.minecraft.villager.toolsmith": "صائغ",
   "entity.minecraft.villager.butcher": "طباخ",
   "entity.minecraft.villager.librarian": "قطعة فموية",
+  "subtitles.entity.villager.work_leatherworker": "حارس الغابة يعمل",
+  "subtitles.entity.villager.work_cartographer": "عالم آثار يعمل",
+  "subtitles.entity.villager.work_armorer": "مهندس يعمل",
+##"subtitles.entity.villager.work_cleric": "رجل الدين يعمل", // LANG ar_sa - MATCHA: كيميائي - MINECRAFT: كاهن - WORK: رجل الدين يعمل
+  "subtitles.entity.villager.work_toolsmith": "صائغ تعمل",
+##"subtitles.entity.villager.work_butcher": "الطباخ يعمل", // LANG ar_sa - MATCHA: طباخ - MINECRAFT: الجزار - WORK: الطباخ يعمل
+  "subtitles.entity.villager.work_librarian": "قطعة فموية يعمل",
   "block.kleispack.banner.classic_pride": "فخر كلاسيكي",
   "block.kleispack.banner.common_pride": "فخر عادي",
   "block.kleispack.banner.new_pride": "فخر جديد",

@@ -138,6 +138,13 @@
   "entity.minecraft.villager.toolsmith": "Бижутер",
   "entity.minecraft.villager.butcher": "Готвач",
   "entity.minecraft.villager.librarian": "Мундщук",
+  "subtitles.entity.villager.work_leatherworker": "Лесничей работи",
+  "subtitles.entity.villager.work_cartographer": "Археолог работи",
+##"subtitles.entity.villager.work_armorer": "Оръжейник работи", // LANG bg_bg - MATCHA: Инженер - MINECRAFT: Ковач на брони - WORK: Оръжейник работи
+  "subtitles.entity.villager.work_cleric": "Химик работи",
+##"subtitles.entity.villager.work_toolsmith": "Оръжейник работи", // LANG bg_bg - MATCHA: Бижутер - MINECRAFT: Майстор на инструменти - WORK: Оръжейник работи
+  "subtitles.entity.villager.work_butcher": "Готвач работи",
+  "subtitles.entity.villager.work_librarian": "Мундщук работи",
   "block.kleispack.banner.classic_pride": "Класически прайд",
   "block.kleispack.banner.common_pride": "Обичаен прайд",
   "block.kleispack.banner.new_pride": "Нов прайд",
