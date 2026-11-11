@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "firefly_bush",
+	"key": {
+		"L": "minecraft:leaf_litter",
+		"B": "minecraft:bush",
+		"P": "minecraft:glow_ink_sac"
+	},
+	"pattern": [
+		"LLL",
+		"LPL",
+		"LBL"
+	],
+	"result": {
+		"id": "minecraft:firefly_bush"
+	}
+}
